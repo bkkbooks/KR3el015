@@ -1,0 +1,910 @@
+canonical_identifier: bkk:krp/KR3el015/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3el015/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫宗金鑑·正骨心法要旨
+  identifiers:
+    krp: KR3el015
+  tags:
+    kr-categories: KR3el
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el015.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3el015_001-jc.yaml, hash: 'sha256:04bdb1f6d120680f5cec78856c604777449514d64c6b4466260819139da097bf'}
+  - {seq: 2, filename: KR3el015_002-jc.yaml, hash: 'sha256:a3911316c2f39b54f3f87d6aa9349530d7d7f183d1c268e292ac35223ef25872'}
+  - {seq: 3, filename: KR3el015_003-jc.yaml, hash: 'sha256:7faf81d16fe285f9f0e652725e95a3a659fb0025befb6b7c37973feb3d6f4767'}
+  - {seq: 4, filename: KR3el015_004-jc.yaml, hash: 'sha256:3c0b7c357b105c665faec3d041520bf7cdcfcb743b4d5c4dc8e5ee9d2754e6a4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3el015_001-jc.markers.yaml, hash: 'sha256:a0ebca2f2d17216ea19d2cd02450d6bf6130a4489c0f37840f1a86a70f18ad8f'}
+  - {seq: 2, role: markers, filename: assets/KR3el015_002-jc.markers.yaml, hash: 'sha256:aee19fd723cc3bf26d91b7cf4503ed2a59b187895fc7f1fa05206cb2c98a8925'}
+  - {seq: 3, role: markers, filename: assets/KR3el015_003-jc.markers.yaml, hash: 'sha256:597f28444b3a0ffb723bdfa5c3cde0b4ac9e813a48f006ed75b0719b095f891c'}
+  - {seq: 4, role: markers, filename: assets/KR3el015_004-jc.markers.yaml, hash: 'sha256:5806c5dad7e9fc54347b0521e8de9d68a56c50831bdb62502ecf151b35f8231f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 4764
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 2653
+  label: 外治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2.d2d2
+    span:
+    - body
+    - 5
+    - 400
+  label: 手法總論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2.d2d3
+    span:
+    - body
+    - 400
+    - 1030
+  label: 手法釋義
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2.d2d4
+    span:
+    - body
+    - 1030
+    - 2653
+  label: 器具總論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2d3
+    span:
+    - body
+    - 2653
+    - 3703
+  label: 經義
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2.d3d2
+    span:
+    - body
+    - 2655
+    - 3178
+  label: 擊僕損傷應刺諸穴經義
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2.d3d3
+    span:
+    - body
+    - 3178
+    - 3296
+  label: 惡血已留復因怒傷肝經義
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2.d3d4
+    span:
+    - body
+    - 3296
+    - 3375
+  label: 擊僕傷後入房傷脾經義
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2.d3d5
+    span:
+    - body
+    - 3375
+    - 3703
+  label: 擊僕損傷脈色經義
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2d4
+    span:
+    - body
+    - 3703
+    - 4764
+  label: 靈樞經骨度尺寸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3el015_jc_001-d2.d4d92
+    span:
+    - body
+    - 4682
+    - 4764
+  label: 補遺
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5765
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 5765
+  label: 頭面部
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d2
+    span:
+    - body
+    - 5
+    - 946
+  label: 巔頂骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d3
+    span:
+    - body
+    - 946
+    - 1707
+  label: 囟骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d4
+    span:
+    - body
+    - 1707
+    - 1871
+  label: 山角骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d5
+    span:
+    - body
+    - 1871
+    - 2183
+  label: 凌雲骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d6
+    span:
+    - body
+    - 2183
+    - 2351
+  label: 睛明骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d7
+    span:
+    - body
+    - 2351
+    - 2535
+  label: 兩顴骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d8
+    span:
+    - body
+    - 2535
+    - 2924
+  label: 鼻梁骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d9
+    span:
+    - body
+    - 2924
+    - 3135
+  label: 中血堂
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d10
+    span:
+    - body
+    - 3135
+    - 3384
+  label: 唇口
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d11
+    span:
+    - body
+    - 3384
+    - 3597
+  label: 玉堂
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d12
+    span:
+    - body
+    - 3597
+    - 4009
+  label: 地閣骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d13
+    span:
+    - body
+    - 4009
+    - 4321
+  label: 齒
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d14
+    span:
+    - body
+    - 4321
+    - 4426
+  label: 扶桑骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d15
+    span:
+    - body
+    - 4426
+    - 4537
+  label: 耳
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d16
+    span:
+    - body
+    - 4537
+    - 4736
+  label: 玉梁骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d17
+    span:
+    - body
+    - 4736
+    - 4813
+  label: 兩釣骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d18
+    span:
+    - body
+    - 4813
+    - 5017
+  label: 頰車骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d19
+    span:
+    - body
+    - 5017
+    - 5297
+  label: 後山骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d20
+    span:
+    - body
+    - 5297
+    - 5503
+  label: 壽臺骨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3el015_jc_002-d3.d2d21
+    span:
+    - body
+    - 5503
+    - 5765
+  label: 旋臺骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 5437
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 2311
+  label: 胸背部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d2d2
+    span:
+    - body
+    - 5
+    - 126
+  label: 鎖子骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d2d3
+    span:
+    - body
+    - 126
+    - 1083
+  label: 胸骨附脅肋
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d2d4
+    span:
+    - body
+    - 1083
+    - 1297
+  label: 岐骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d2d5
+    span:
+    - body
+    - 1297
+    - 1389
+  label: 蔽心骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d2d6
+    span:
+    - body
+    - 1389
+    - 1614
+  label: 鳧骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d2d7
+    span:
+    - body
+    - 1614
+    - 1825
+  label: 陰囊
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d2d8
+    span:
+    - body
+    - 1825
+    - 2003
+  label: 背骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d2d9
+    span:
+    - body
+    - 2003
+    - 2198
+  label: 腰骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d2d10
+    span:
+    - body
+    - 2198
+    - 2311
+  label: 尾骶骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4d3
+    span:
+    - body
+    - 2311
+    - 5437
+  label: 四肢部
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d2
+    span:
+    - body
+    - 2314
+    - 2786
+  label: 髃骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d3
+    span:
+    - body
+    - 2786
+    - 2951
+  label: 臑骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d4
+    span:
+    - body
+    - 2951
+    - 3064
+  label: 肘骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d5
+    span:
+    - body
+    - 3064
+    - 3236
+  label: 臂骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d6
+    span:
+    - body
+    - 3236
+    - 3447
+  label: 腕骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d7
+    span:
+    - body
+    - 3447
+    - 3597
+  label: 五指骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d8
+    span:
+    - body
+    - 3597
+    - 3700
+  label: 竹節骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d9
+    span:
+    - body
+    - 3700
+    - 4070
+  label: 胯骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d10
+    span:
+    - body
+    - 4070
+    - 4200
+  label: 環跳
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d11
+    span:
+    - body
+    - 4200
+    - 4384
+  label: 大楗骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d12
+    span:
+    - body
+    - 4384
+    - 4580
+  label: 膝蓋骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d13
+    span:
+    - body
+    - 4580
+    - 4737
+  label: 胻骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d14
+    span:
+    - body
+    - 4737
+    - 4991
+  label: 踝骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d15
+    span:
+    - body
+    - 4991
+    - 5139
+  label: 跗骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d16
+    span:
+    - body
+    - 5139
+    - 5225
+  label: 足五趾骨
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3el015_jc_003-d4.d3d17
+    span:
+    - body
+    - 5225
+    - 5437
+  label: 跟骨
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 5542
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 5542
+  label: 內治雜證法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d2
+    span:
+    - body
+    - 7
+    - 187
+  label: 方法總論
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d3
+    span:
+    - body
+    - 187
+    - 1203
+  label: 傷損內證
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d4
+    span:
+    - body
+    - 1203
+    - 1525
+  label: 傷損出血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d5
+    span:
+    - body
+    - 1525
+    - 1857
+  label: 瘀血泛注
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d6
+    span:
+    - body
+    - 1857
+    - 1931
+  label: 瘀血作痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d7
+    span:
+    - body
+    - 1931
+    - 1994
+  label: 血虛作痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d8
+    span:
+    - body
+    - 1994
+    - 2124
+  label: 嘔吐黑血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d9
+    span:
+    - body
+    - 2124
+    - 2291
+  label: 發熱
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d10
+    span:
+    - body
+    - 2291
+    - 2398
+  label: 肌肉作痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d11
+    span:
+    - body
+    - 2398
+    - 2562
+  label: 骨傷作痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d12
+    span:
+    - body
+    - 2562
+    - 2955
+  label: 胸腹痛悶
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d13
+    span:
+    - body
+    - 2955
+    - 3169
+  label: 脅肋脹痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d14
+    span:
+    - body
+    - 3169
+    - 3540
+  label: 腹痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d15
+    span:
+    - body
+    - 3540
+    - 3637
+  label: 少腹引陰莖作痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d16
+    span:
+    - body
+    - 3637
+    - 3713
+  label: 腰痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d17
+    span:
+    - body
+    - 3713
+    - 3801
+  label: 眩暈
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d18
+    span:
+    - body
+    - 3801
+    - 3932
+  label: 煩躁
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d19
+    span:
+    - body
+    - 3932
+    - 4067
+  label: 喘咳
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d20
+    span:
+    - body
+    - 4067
+    - 4313
+  label: 昏憒
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d21
+    span:
+    - body
+    - 4313
+    - 4444
+  label: 作嘔
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d22
+    span:
+    - body
+    - 4444
+    - 4663
+  label: 作渴
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d23
+    span:
+    - body
+    - 4663
+    - 4860
+  label: 秘結
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d24
+    span:
+    - body
+    - 4860
+    - 5060
+  label: 挾表
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3el015_jc_004-d5.d2d25
+    span:
+    - body
+    - 5060
+    - 5542
+  label: 補遺方
+  type: section
+  level: 3
+hash: sha256:99b936ea02565f2920c3f52e42478376536968446ca75edadc2cb684adf04c1d
